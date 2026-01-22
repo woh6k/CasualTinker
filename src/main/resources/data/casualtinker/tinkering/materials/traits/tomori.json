@@ -8,12 +8,20 @@
       {
         "name": "casualtinker:hitoshizuku",
         "level": 1
+      },
+      {
+        "name": "casualtinker:idea_mushroom",
+        "level": 1
       }
     ],
 
     "tconstruct:armor": [
       {
         "name": "casualtinker:mygo",
+        "level": 1
+      },
+      {
+        "name": "casualtinker:idea_mushroom",
         "level": 1
       }
     ]

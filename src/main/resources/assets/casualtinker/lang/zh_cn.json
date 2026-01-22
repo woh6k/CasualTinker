@@ -83,7 +83,7 @@
   "modifier.casualtinker.phoenix_blessing.description": "在岩浆或者火中，身上的装备会给你提供防火和回血，等级越高恢复越快",
   "modifier.casualtinker.dragon_prestige": "龙威",
   "modifier.casualtinker.dragon_prestige.flavor": "万物臣服",
-  "modifier.casualtinker.dragon_prestige.description": "攻击时有 40% 概率释放威压，威压持续1s\n威压每5秒对周围20点血上限以下的敌对生物造成40点物理伤害，冷却时间：60秒",
+  "modifier.casualtinker.dragon_prestige.description": "攻击时有 40% 概率释放威压，威压持续11s\n威压每5秒对周围20点血上限以下的敌对生物造成40点物理伤害，冷却时间：60秒",
   "modifier.casualtinker.reverse_scale": "逆鳞",
   "modifier.casualtinker.reverse_scale.flavor": "龙之逆鳞",
   "modifier.casualtinker.reverse_scale.description": "穿戴者在单次受到超过 10 点伤害且存活时，瞬间回复2点(每级)生命值，并获得短暂的力量II和抗性提升II，内置1s冷却。等级越高回复越高",

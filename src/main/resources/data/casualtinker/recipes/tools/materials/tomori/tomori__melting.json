@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "casualtinker:tomori_ingot"
+  },
+  "result": {
+    "fluid": "casualtinker:molten_tomori",
+    "amount": 90
+  },
+  "temperature": 1500,
+  "time": 200
+}

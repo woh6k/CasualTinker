@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "casualtinker:dragon_gold",
+  "temperature": 1500,
+  "result": {
+    "fluid": "casualtinker:molten_dragon_gold",
+    "amount": 90
+  }
+}

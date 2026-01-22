@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "item": "casualtinker:attitude_gu"
+    }
+  ],
+  "tools": {
+    "tag": "tconstruct:modifiable/armor/helmets"
+  },
+  "slots": {
+    "defense": 1
+  },
+  "max_level": 1,
+  "allow_crystal": true,
+  "result": "casualtinker:familiar"
+}

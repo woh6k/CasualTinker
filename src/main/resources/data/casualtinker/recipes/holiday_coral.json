@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    "BOB",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "O": {
+      "item": "casualtinker:originium_shard"
+    }
+  },
+  "result": {
+    "item": "casualtinker:holiday_coral",
+    "count": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 56,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 10,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "casualtinker:tea_leaf",
+          "weight": 20,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "casualtinker:originium_shard",
+          "weight": 10,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "casualtinker:phoenix_gold_ingot",
+          "weight": 2,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "casualtinker:dragon_gold_ingot",
+          "weight": 2,
+          "quality": 1
+        }
+      ]
+    }
+  ]
+}

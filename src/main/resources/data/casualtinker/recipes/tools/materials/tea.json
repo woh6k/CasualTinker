@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "casualtinker:tea_leaf"
+  },
+  "material": "casualtinker:tea",
+  "needed": 1,
+  "value": 1
+}

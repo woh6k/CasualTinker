@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "casualtinker:dragon_gold_ingot"
+  },
+  "material": "casualtinker:dragon_gold",
+  "needed": 1,
+  "value": 1
+}

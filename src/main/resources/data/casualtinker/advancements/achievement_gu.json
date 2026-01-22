@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "casualtinker:spring_autumn_cicada"
+    },
+    "title": {
+      "translate": "advancement.casualtinker.achievement_gu"
+    },
+    "description": {
+      "translate": "advancement.casualtinker.achievement_gu.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "casualtinker:root",
+  "criteria": {
+    "auto_unlock": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

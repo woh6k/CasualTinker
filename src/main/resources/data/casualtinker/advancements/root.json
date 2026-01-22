@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "casualtinker:tea_leaf"
+    },
+    "title": {
+      "translate": "advancement.casualtinker.root"
+    },
+    "description": {
+      "translate": "advancement.casualtinker.root.desc"
+    },
+
+    "background": "minecraft:textures/block/stone.png",
+
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

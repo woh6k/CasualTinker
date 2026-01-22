@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "casualtinker:spring_autumn_cicada"
+    },
+    "title": {
+      "translate": "advancement.casualtinker.spring_autumn"
+    },
+    "description": {
+      "translate": "advancement.casualtinker.spring_autumn.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "casualtinker:achievement_gu",
+  "criteria": {
+    "use_totem_5_times": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "player",
+            "stats": [
+              {
+                "type": "minecraft:used",
+                "stat": "minecraft:totem_of_undying",
+                "value": {
+                  "min": 5
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "casualtinker:advancements/spring_autumn_reward"
+    ]
+  }
+}

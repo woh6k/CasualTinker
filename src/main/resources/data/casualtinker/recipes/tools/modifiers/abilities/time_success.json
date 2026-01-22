@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "item": "casualtinker:spring_autumn_cicada"
+    }
+  ],
+  "tools": {
+    "tag": "tconstruct:modifiable/armor/chestplate"
+  },
+  "slots": {
+    "abilities": 1
+  },
+  "max_level": 1,
+  "allow_crystal": true,
+  "result": "casualtinker:time_success"
+}

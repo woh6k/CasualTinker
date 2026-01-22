@@ -1,0 +1,25 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "tconstruct:fiery",
+        "level": 1
+      },
+      {
+        "name": "casualtinker:phoenix_repair",
+        "level": 1
+      }
+    ],
+
+    "tconstruct:armor": [
+      {
+        "name": "casualtinker:phoenix_blessing",
+        "level": 1
+      },
+      {
+        "name": "casualtinker:phoenix_repair",
+        "level": 1
+      }
+    ]
+  }
+}

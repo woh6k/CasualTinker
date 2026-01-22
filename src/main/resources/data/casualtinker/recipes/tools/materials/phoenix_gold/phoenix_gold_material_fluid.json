@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "casualtinker:molten_phoenix_gold",
+    "amount": 90
+  },
+  "temperature": 1500,
+  "output": "casualtinker:phoenix_gold"
+}

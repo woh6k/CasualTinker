@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "item": "casualtinker:persist_gu"
+    }
+  ],
+  "tools": {
+    "tag": "tconstruct:modifiable/armor/chestplate"
+  },
+  "slots": {
+    "defense": 1
+  },
+  "max_level": 1,
+  "allow_crystal": true,
+  "result": "casualtinker:river_amulet"
+}

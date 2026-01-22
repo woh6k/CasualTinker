@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "casualtinker:item/tomori_ingot"
+  }
+}

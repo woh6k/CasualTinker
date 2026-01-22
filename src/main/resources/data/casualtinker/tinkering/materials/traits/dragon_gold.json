@@ -1,0 +1,21 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "casualtinker:dragon_prestige",
+        "level": 1
+      },
+      {
+        "name": "casualtinker:dragon_tooth",
+        "level": 1
+      }
+    ],
+
+    "tconstruct:armor": [
+      {
+        "name": "casualtinker:reverse_scale",
+        "level": 1
+      }
+    ]
+  }
+}

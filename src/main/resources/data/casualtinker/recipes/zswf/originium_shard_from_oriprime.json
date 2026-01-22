@@ -1,0 +1,20 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "zswf"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "zswf:oriprime"
+    }
+  ],
+
+  "result": {
+    "item": "casualtinker:originium_shard",
+    "count": 4
+  }
+}

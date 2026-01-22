@@ -1,0 +1,21 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      {
+        "name": "casualtinker:haruhikage",
+        "level": 1
+      },
+      {
+        "name": "casualtinker:hitoshizuku",
+        "level": 1
+      }
+    ],
+
+    "tconstruct:armor": [
+      {
+        "name": "casualtinker:mygo",
+        "level": 1
+      }
+    ]
+  }
+}

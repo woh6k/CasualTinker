@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "casualtinker:attitude_gu"
+    },
+    "title": {
+      "translate": "advancement.casualtinker.attitude"
+    },
+    "description": {
+      "translate": "advancement.casualtinker.attitude.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "casualtinker:achievement_gu",
+  "criteria": {
+    "kill_while_invisible": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": {
+          "effects": {
+            "minecraft:invisibility": {}
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "loot": [
+      "casualtinker:advancements/attitude_reward"
+    ]
+  }
+}
